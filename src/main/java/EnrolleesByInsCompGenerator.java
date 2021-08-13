@@ -14,8 +14,8 @@ import java.util.StringJoiner;
 import java.util.stream.Collectors;
 
 /**
- * Read the enrollee information from a csv file, seperate the enrollees by insurance company to it's
- * own files.
+ * Read the enrollee information from a csv file, seperate the enrollees by insurance company to
+ * it's own files.
  */
 public class EnrolleesByInsCompGenerator {
   private static final Path LOAD_FILE_PATH = Paths.get("src/main/resources/enrollments.csv");

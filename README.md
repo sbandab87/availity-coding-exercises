@@ -1,2 +1,1 @@
-# java-project
-my java project
+# availity coding excercises
